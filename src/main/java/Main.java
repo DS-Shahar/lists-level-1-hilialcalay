@@ -1,5 +1,4 @@
 class Main {
-  package olimpics;
 import java.util.*;
 public class list {
 	public static Scanner reader=new Scanner(System.in);
